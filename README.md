@@ -3,7 +3,7 @@
 This is the code repository for [Implementing Oracle API Platform Cloud Service](https://www.packtpub.com/virtualization-and-cloud/implementing-oracle-api-platform-cloud-service?utm_source=github&utm_medium=repository&utm_campaign=9781788478656), published by [Packt](https://www.packtpub.com/). It contains all the supporting project files necessary to work through the book from start to finish.
 
 ## Instructions and Navigations
-All of the code is organized into folders. Each folder starts with a number followed by the application name. For example, Chapter04.
+All of the code is organized into folders.
 
 The code will look like the following:
 ```
